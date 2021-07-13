@@ -13,7 +13,7 @@
     aci_epgs:
       - _epg: Quito
         _desc: obviously the best
-      - _epg: Arizona
+      - _epg: Ambato
         _desc: really hot
       - _epg: Utah
         _desc: boring

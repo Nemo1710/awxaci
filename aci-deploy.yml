@@ -11,7 +11,7 @@
     aci_bd: gtest-bridge
     aci_vrf: gtest-vrf
     aci_epgs:
-      - _epg: Texas
+      - _epg: Quito
         _desc: obviously the best
       - _epg: Arizona
         _desc: really hot
